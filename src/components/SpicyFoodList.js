@@ -24,4 +24,3 @@ function SpicyFoodList() {
 }
 
 export default SpicyFoodList;
-gg
